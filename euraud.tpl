@@ -1,15 +1,15 @@
 <chart>
-id=132146229230981490
-symbol=AUDJPY
+id=132146229233340999
+symbol=EURAUD
 period=1440
-leftpos=1981
-digits=3
+leftpos=1990
+digits=5
 scale=8
 graph=1
 fore=0
 grid=0
 volume=0
-scroll=1
+scroll=0
 shift=1
 ohlc=1
 one_click=0
@@ -19,10 +19,10 @@ days=1
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=0
-window_top=0
-window_right=864
-window_bottom=335
+window_left=864
+window_top=335
+window_right=1728
+window_bottom=670
 window_type=3
 background_color=0
 foreground_color=16777215
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=22
-object_name=Arrow 55488
+object_name=Arrow 602
 period_flags=64
-create_time=1574033600
+create_time=1574896218
 color=65535
 weight=1
 background=0
@@ -55,14 +55,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1574121600
-value_0=74.571429
+time_0=1574899200
+value_0=1.633535
 </object>
 <object>
 type=22
-object_name=Arrow 12104
+object_name=Arrow 618
 period_flags=64
-create_time=1574121288
+create_time=1574896234
 color=65535
 weight=1
 background=0
@@ -72,8 +72,8 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1574208000
-value_0=74.435102
+time_0=1574985600
+value_0=1.632108
 </object>
 </indicator>
 </window>

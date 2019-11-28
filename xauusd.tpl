@@ -1,15 +1,15 @@
 <chart>
-id=132146229231501374
-symbol=USDSGD
+id=132146229230981490
+symbol=XAUUSD
 period=1440
-leftpos=1991
-digits=5
+leftpos=1988
+digits=3
 scale=8
 graph=1
-fore=1
+fore=0
 grid=0
 volume=0
-scroll=0
+scroll=1
 shift=1
 ohlc=1
 one_click=0
@@ -20,9 +20,9 @@ descriptions=0
 shift_size=20
 fixed_pos=0
 window_left=0
-window_top=335
+window_top=0
 window_right=864
-window_bottom=670
+window_bottom=335
 window_type=3
 background_color=0
 foreground_color=16777215
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=22
-object_name=Arrow 42955
+object_name=Arrow 12691
 period_flags=64
-create_time=1570416587
+create_time=1574121875
 color=65535
 weight=1
 background=0
@@ -55,14 +55,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1570492800
-value_0=0.630791
+time_0=1574121600
+value_0=1480.795900
 </object>
 <object>
 type=22
-object_name=Arrow 43465
+object_name=Arrow 18820
 period_flags=64
-create_time=1570417097
+create_time=1574259076
 color=65535
 weight=1
 background=0
@@ -72,14 +72,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1569542400
-value_0=0.893147
+time_0=1574294400
+value_0=1485.237607
 </object>
 <object>
 type=22
-object_name=Arrow 43562
+object_name=Arrow 25181
 period_flags=64
-create_time=1570417194
+create_time=1574724189
 color=65535
 weight=1
 background=0
@@ -89,14 +89,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1569801600
-value_0=82.009132
+time_0=1574726400
+value_0=1474.659054
 </object>
 <object>
 type=22
-object_name=Arrow 43613
+object_name=Arrow 25209
 period_flags=64
-create_time=1570417245
+create_time=1574724217
 color=65535
 weight=1
 background=0
@@ -106,59 +106,27 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1569974400
-value_0=81.996452
+time_0=1574812800
+value_0=1466.520427
 </object>
 <object>
-type=22
-object_name=Arrow 43908
+type=21
+object_name=Text 25230
 period_flags=64
-create_time=1570417540
+create_time=1574724238
+description=来回波动很大，最好按日图趋势做，过滤日内波动
 color=65535
-weight=1
+font=Arial
+fontsize=10
+angle=0
+anchor_pos=7
 background=0
-symbol_code=252
-anchor_pos=0
 filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1569542400
-value_0=1.385017
-</object>
-<object>
-type=22
-object_name=Arrow 24149
-period_flags=64
-create_time=1571184213
-color=65535
-weight=1
-background=0
-symbol_code=252
-anchor_pos=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1571270400
-value_0=1.373143
-</object>
-<object>
-type=22
-object_name=Arrow 22603
-period_flags=64
-create_time=1574983755
-color=65535
-weight=1
-background=0
-symbol_code=252
-anchor_pos=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1575072000
-value_0=1.367911
+time_0=1571875200
+value_0=1549.471818
 </object>
 </indicator>
 </window>
