@@ -2,7 +2,7 @@
 id=132146229233340999
 symbol=USDCAD
 period=1440
-leftpos=1944
+leftpos=1992
 digits=5
 scale=8
 graph=1
@@ -91,6 +91,23 @@ hidden=0
 zorder=0
 time_0=1574899200
 value_0=1.330060
+</object>
+<object>
+type=22
+object_name=Arrow 20720
+period_flags=64
+create_time=1575244016
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1575244800
+value_0=1.333724
 </object>
 </indicator>
 </window>

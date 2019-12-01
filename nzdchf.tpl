@@ -2,7 +2,7 @@
 id=132146229230981490
 symbol=NZDCHF
 period=1440
-leftpos=1949
+leftpos=1991
 digits=5
 scale=8
 graph=1
@@ -57,6 +57,23 @@ hidden=0
 zorder=0
 time_0=1570492800
 value_0=0.630791
+</object>
+<object>
+type=22
+object_name=Arrow 52123
+period_flags=64
+create_time=1575209883
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1575072000
+value_0=0.646884
 </object>
 </indicator>
 </window>
