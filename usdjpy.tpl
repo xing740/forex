@@ -1,9 +1,9 @@
 <chart>
-id=132196878195769143
-symbol=NZDCHF
+id=132146229233340999
+symbol=USDJPY
 period=1440
-leftpos=1994
-digits=5
+leftpos=2000
+digits=3
 scale=8
 graph=1
 fore=0
@@ -19,10 +19,10 @@ days=1
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=26
-window_top=26
-window_right=877
-window_bottom=407
+window_left=864
+window_top=335
+window_right=1728
+window_bottom=670
 window_type=3
 background_color=0
 foreground_color=16777215
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=22
-object_name=Arrow 15919
+object_name=Arrow 6120
 period_flags=64
-create_time=1575501359
+create_time=1576409064
 color=65535
 weight=1
 background=0
@@ -55,8 +55,8 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1575504000
-value_0=0.648372
+time_0=1575849600
+value_0=109.114805
 </object>
 </indicator>
 </window>

@@ -1,8 +1,8 @@
 <chart>
-id=132196878195769143
-symbol=NZDCHF
+id=132196881906622773
+symbol=EURNZD
 period=1440
-leftpos=1994
+leftpos=2001
 digits=5
 scale=8
 graph=1
@@ -19,10 +19,10 @@ days=1
 descriptions=0
 shift_size=20
 fixed_pos=0
-window_left=26
-window_top=26
-window_right=877
-window_bottom=407
+window_left=52
+window_top=52
+window_right=903
+window_bottom=433
 window_type=3
 background_color=0
 foreground_color=16777215
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=22
-object_name=Arrow 15919
+object_name=Arrow 8955
 period_flags=64
-create_time=1575501359
+create_time=1576411899
 color=65535
 weight=1
 background=0
@@ -55,8 +55,8 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1575504000
-value_0=0.648372
+time_0=1576195200
+value_0=1.699486
 </object>
 </indicator>
 </window>
