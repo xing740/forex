@@ -1,8 +1,8 @@
 <chart>
-id=132241195499964801
+id=132306203774808575
 symbol=USDCAD
 period=1440
-leftpos=2049
+leftpos=1882
 digits=5
 scale=8
 graph=1
@@ -21,8 +21,8 @@ shift_size=20
 fixed_pos=0
 window_left=78
 window_top=78
-window_right=929
-window_bottom=459
+window_right=1449
+window_bottom=604
 window_type=3
 background_color=0
 foreground_color=16777215
@@ -193,6 +193,23 @@ hidden=0
 zorder=0
 time_0=1582243200
 value_0=1.328791
+</object>
+<object>
+type=22
+object_name=Arrow 53110
+period_flags=0
+create_time=1586220918
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1586304000
+value_0=1.422657
 </object>
 </indicator>
 </window>

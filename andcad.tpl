@@ -1,8 +1,8 @@
 <chart>
 id=132315507597927471
-symbol=NZDCHF
+symbol=AUDCAD
 period=1440
-leftpos=1902
+leftpos=1892
 digits=5
 scale=8
 graph=1
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=22
-object_name=Arrow 15919
+object_name=Arrow 57834
 period_flags=64
-create_time=1575501359
+create_time=1587077610
 color=65535
 weight=1
 background=0
@@ -55,14 +55,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1575504000
-value_0=0.648372
+time_0=1587168000
+value_0=0.896267
 </object>
 <object>
 type=22
-object_name=Arrow 10315
+object_name=Arrow 10565
 period_flags=64
-create_time=1589323851
+create_time=1587423557
 color=65535
 weight=1
 background=0
@@ -72,8 +72,8 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1589414400
-value_0=0.595025
+time_0=1587513600
+value_0=0.898988
 </object>
 </indicator>
 </window>

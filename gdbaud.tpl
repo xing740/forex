@@ -1,8 +1,8 @@
 <chart>
 id=132315507597927471
-symbol=NZDCHF
+symbol=GBPAUD
 period=1440
-leftpos=1902
+leftpos=1903
 digits=5
 scale=8
 graph=1
@@ -43,9 +43,9 @@ fixed_height=0
 name=main
 <object>
 type=22
-object_name=Arrow 15919
+object_name=Arrow 46280
 period_flags=64
-create_time=1575501359
+create_time=1588638920
 color=65535
 weight=1
 background=0
@@ -55,25 +55,8 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1575504000
-value_0=0.648372
-</object>
-<object>
-type=22
-object_name=Arrow 10315
-period_flags=64
-create_time=1589323851
-color=65535
-weight=1
-background=0
-symbol_code=252
-anchor_pos=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1589414400
-value_0=0.595025
+time_0=1588723200
+value_0=1.947642
 </object>
 </indicator>
 </window>
