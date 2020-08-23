@@ -1,8 +1,8 @@
 <chart>
 id=132403697693902359
-symbol=USDSGD
+symbol=USDCHF
 period=1440
-leftpos=1957
+leftpos=1952
 digits=5
 scale=8
 graph=1
@@ -43,9 +43,26 @@ fixed_height=0
 name=main
 <object>
 type=22
-object_name=Arrow 602
+object_name=Arrow 25333
 period_flags=64
-create_time=1574896218
+create_time=1574724341
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1574726400
+value_0=2.027522
+</object>
+<object>
+type=22
+object_name=Arrow 232
+period_flags=64
+create_time=1574895848
 color=65535
 weight=1
 background=0
@@ -56,13 +73,30 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1574899200
-value_0=1.633535
+value_0=2.024793
 </object>
 <object>
 type=22
-object_name=Arrow 618
+object_name=Arrow 326
 period_flags=64
-create_time=1574896234
+create_time=1574895942
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1574899200
+value_0=1.330060
+</object>
+<object>
+type=22
+object_name=Arrow 20720
+period_flags=64
+create_time=1575244016
 color=65535
 weight=1
 background=0
@@ -73,47 +107,13 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1575244800
-value_0=1.635674
+value_0=1.333724
 </object>
 <object>
 type=22
-object_name=Arrow 52996
+object_name=Arrow 63169
 period_flags=64
-create_time=1575210756
-color=65535
-weight=1
-background=0
-symbol_code=252
-anchor_pos=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1575072000
-value_0=1.635317
-</object>
-<object>
-type=22
-object_name=Arrow 20798
-period_flags=64
-create_time=1575244094
-color=65535
-weight=1
-background=0
-symbol_code=252
-anchor_pos=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1575331200
-value_0=1.634604
-</object>
-<object>
-type=22
-object_name=Arrow 15965
-period_flags=64
-create_time=1575501405
+create_time=1575417537
 color=65535
 weight=1
 background=0
@@ -124,13 +124,13 @@ selectable=1
 hidden=0
 zorder=0
 time_0=1575504000
-value_0=1.624620
+value_0=1.330876
 </object>
 <object>
 type=22
-object_name=Arrow 39757
+object_name=Arrow 52863
 period_flags=64
-create_time=1575590733
+create_time=1579077247
 color=65535
 weight=1
 background=0
@@ -140,50 +140,65 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1575590400
-value_0=1.629612
+time_0=1579132800
+value_0=1.309151
 </object>
 <object>
-type=21
-object_name=到的完美的入场点，却因为赚了点不敢下，损的话却会敢下
+type=22
+object_name=Arrow 58150
+period_flags=64
+create_time=1579475750
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1579564800
+value_0=1.308914
+</object>
+<object>
+type=22
+object_name=Arrow 20969
+period_flags=64
+create_time=1581601257
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1581552000
+value_0=1.331413
+</object>
+<object>
+type=22
+object_name=Arrow 6395
+period_flags=64
+create_time=1582242043
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1582243200
+value_0=1.328791
+</object>
+<object>
+type=22
+object_name=Arrow 53110
 period_flags=0
-create_time=1576194891
-description=到的完美的入场点，却因为赚了点不敢下，损的话却会敢下
-color=65535
-font=Arial
-fontsize=10
-angle=0
-anchor_pos=7
-background=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1571616000
-value_0=1.667410
-</object>
-<object>
-type=22
-object_name=Arrow 54171
-period_flags=64
-create_time=1576194971
-color=65535
-weight=1
-background=0
-symbol_code=68
-anchor_pos=0
-filling=0
-selectable=1
-hidden=0
-zorder=0
-time_0=1576022400
-value_0=1.633535
-</object>
-<object>
-type=22
-object_name=Arrow 13427
-period_flags=64
-create_time=1576678515
+create_time=1586220918
 color=65535
 weight=1
 background=0
@@ -193,14 +208,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1576713600
-value_0=1.632798
+time_0=1586304000
+value_0=1.422657
 </object>
 <object>
 type=22
-object_name=Arrow 17446
+object_name=Arrow 46348
 period_flags=64
-create_time=1580090406
+create_time=1592177932
 color=65535
 weight=1
 background=0
@@ -210,14 +225,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1580169600
-value_0=1.622652
+time_0=1592265600
+value_0=1.368756
 </object>
 <object>
 type=22
-object_name=Arrow 1799
+object_name=Arrow 34819
 period_flags=64
-create_time=1592264455
+create_time=1592952835
 color=65535
 weight=1
 background=0
@@ -227,14 +242,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1592438400
-value_0=1.394603
+time_0=1592956800
+value_0=1.363975
 </object>
 <object>
 type=22
-object_name=Arrow 1092
+object_name=Arrow 47666
 period_flags=64
-create_time=1595540548
+create_time=1593555506
 color=65535
 weight=1
 background=0
@@ -244,14 +259,14 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1595635200
-value_0=1.392649
+time_0=1593561600
+value_0=1.375200
 </object>
 <object>
 type=22
-object_name=Arrow 15124
+object_name=Arrow 45019
 period_flags=64
-create_time=1598176020
+create_time=1594339291
 color=65535
 weight=1
 background=0
@@ -261,8 +276,42 @@ filling=0
 selectable=1
 hidden=0
 zorder=0
-time_0=1588723200
-value_0=1.421453
+time_0=1594425600
+value_0=1.363079
+</object>
+<object>
+type=22
+object_name=Arrow 59241
+period_flags=64
+create_time=1597106025
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1597190400
+value_0=1.344394
+</object>
+<object>
+type=22
+object_name=Arrow 13397
+period_flags=64
+create_time=1598174293
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1591315200
+value_0=0.965798
 </object>
 </indicator>
 </window>
