@@ -2,7 +2,7 @@
 id=132306203757044576
 symbol=GBPCHF
 period=1440
-leftpos=1969
+leftpos=1978
 digits=5
 scale=8
 graph=1
@@ -74,6 +74,23 @@ hidden=0
 zorder=0
 time_0=1596499200
 value_0=1.208504
+</object>
+<object>
+type=22
+object_name=Arrow 34361
+period_flags=64
+create_time=1597539897
+color=65535
+weight=1
+background=0
+symbol_code=252
+anchor_pos=0
+filling=0
+selectable=1
+hidden=0
+zorder=0
+time_0=1597449600
+value_0=1.199821
 </object>
 </indicator>
 </window>
